@@ -14,7 +14,7 @@ sites:
 
 status-website:
   baseUrl: /upptime
-
+  name: kala
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
