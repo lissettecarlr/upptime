@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2157,
+    "time": 2162,
     "timeDay": 1774,
     "timeWeek": 2561,
-    "timeMonth": 2157,
-    "timeYear": 2157,
+    "timeMonth": 2162,
+    "timeYear": 2162,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://blog.kala.love",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kala.love.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2157,
-    "timeDay": 1774,
-    "timeWeek": 2561,
-    "timeMonth": 2157,
-    "timeYear": 2157,
+    "time": 2145,
+    "timeDay": 1645,
+    "timeWeek": 2525,
+    "timeMonth": 2145,
+    "timeYear": 2145,
     "dailyMinutesDown": {}
   }
 ]
