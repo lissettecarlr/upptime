@@ -4,7 +4,7 @@
     "url": "https://kala.love",
     "icon": "https://icons.duckduckgo.com/ip3/kala.love.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2033,
+    "time": 2036,
     "timeDay": 1277,
     "timeWeek": 1414,
-    "timeMonth": 2033,
-    "timeYear": 2033,
+    "timeMonth": 2036,
+    "timeYear": 2036,
     "dailyMinutesDown": {}
   }
 ]
