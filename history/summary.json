@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1865,
+    "time": 1863,
     "timeDay": 1359,
     "timeWeek": 1361,
     "timeMonth": 1878,
-    "timeYear": 1865,
+    "timeYear": 1863,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://blog.kala.love",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kala.love.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1865,
-    "timeDay": 1359,
-    "timeWeek": 1361,
-    "timeMonth": 1878,
-    "timeYear": 1865,
+    "time": 1861,
+    "timeDay": 1329,
+    "timeWeek": 1355,
+    "timeMonth": 1873,
+    "timeYear": 1861,
     "dailyMinutesDown": {}
   }
 ]
