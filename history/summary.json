@@ -22,17 +22,17 @@
     "url": "https://blog.kala.love",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kala.love.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1732,
-    "timeDay": 1426,
-    "timeWeek": 1244,
-    "timeMonth": 1339,
-    "timeYear": 1732,
+    "time": 1743,
+    "timeDay": 1950,
+    "timeWeek": 1332,
+    "timeMonth": 1362,
+    "timeYear": 1743,
     "dailyMinutesDown": {}
   }
 ]
