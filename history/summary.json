@@ -4,7 +4,7 @@
     "url": "https://kala.love",
     "icon": "https://icons.duckduckgo.com/ip3/kala.love.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1736,
     "timeDay": 3764,
     "timeWeek": 2828,
-    "timeMonth": 1710,
+    "timeMonth": 1715,
     "timeYear": 1736,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://blog.kala.love",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kala.love.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1736,
     "timeDay": 3764,
     "timeWeek": 2828,
-    "timeMonth": 1710,
+    "timeMonth": 1715,
     "timeYear": 1736,
     "dailyMinutesDown": {}
   }
